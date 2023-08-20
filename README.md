@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Alisher</h1>
-<h3 align="center">Hi, I'm **Alisher Akhmadov**, Django web devloperr</h3>
+<h3 align="center">Hi, I'm Alisher Akhmadov, Django web devloperr</h3>
 
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg)
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg){:width="200px"}
+![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg){:width="100px"}
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherpy&label=Profile%20views&color=0e75b6&style=flat" alt="alisherpy" /> </p>
