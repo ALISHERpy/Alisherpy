@@ -1,8 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Alisher</h1>
-<h3 align="center">Hi, I'm Alisher Akhmadov, Django web devloperr</h3>
+<h1 align="center">Hey there 👋</h1>
+<h3 align="left">Hi, I'm **Alisher Akhmadov**, Django web devloper</h3>
 
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg){:width="100px"}
-
+![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherpy&label=Profile%20views&color=0e75b6&style=flat" alt="alisherpy" /> </p>
 
@@ -19,8 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://t.me/Alisher_py" target="blank"><img height="30em" src="https://camo.githubusercontent.com/d189e768f90e759322c974001d1f0bd8a8e3c55ef56db2027f0bc70f4c71e131/68747470733a2f2f74656c656772612e70682f66696c652f3664616237303366306536383062306564363133662e706e67" alt="Telegram" data-canonical-src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" style="max-width: 100%;" height="30" width="40" /></a>
+<a href="https://t.me/Alisher_py" target="blank"><img align="center" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt="alisher_py" height="30" width="40" /></a>
+
 <a href="https://instagram.com/alisher_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_py" height="30" width="40" /></a>
+
 <a href="https://twitter.com/dasturchiyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasturchiyigit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisher-axmadov-75a3a921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-axmadov-75a3a921a" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100072845643885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100072845643885" height="30" width="40" /></a>
