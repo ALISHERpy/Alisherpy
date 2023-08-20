@@ -1,24 +1,30 @@
-<h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h1 align="center">Hey there 👋, I'm Alisher</h1>
+<h3 align="center">Hi, I'm **Alisher Akhmadov**, Django web devloperr</h3>
+
+![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg)
+![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg){:width="200px"}
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherpy&label=Profile%20views&color=0e75b6&style=flat" alt="alisherpy" /> </p>
 
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/1.jpg)
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg)
-![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/2.jpg)
+
+
+- 📚🎓 Studying my Bachelor's in Cybersecurity at Tashkent University of Information Technologies.
 
 - 👨‍💻 All of my projects are available at [There](https://resilient-semifreddo-7a6b7e.netlify.app/)
 
 - 💬 Ask me anything about **Django,Telegram bot**
 
-- 📫 How to reach me **Dasturchiyigit2002@gmail.com**
+- 💼/💬 If you have any questions or suggestions, you can reach me at **Dasturchiyigit2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://t.me/Alisher_py" target="blank"><img height="30em" src="https://camo.githubusercontent.com/d189e768f90e759322c974001d1f0bd8a8e3c55ef56db2027f0bc70f4c71e131/68747470733a2f2f74656c656772612e70682f66696c652f3664616237303366306536383062306564363133662e706e67" alt="Telegram" data-canonical-src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" style="max-width: 100%;" height="30" width="40" /></a>
+<a href="https://instagram.com/alisher_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_py" height="30" width="40" /></a>
 <a href="https://twitter.com/dasturchiyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasturchiyigit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisher-axmadov-75a3a921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-axmadov-75a3a921a" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100072845643885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100072845643885" height="30" width="40" /></a>
-<a href="https://instagram.com/alisher_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_py" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchwhtwemopngb1uv1arokeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchwhtwemopngb1uv1arokeq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dasturchi_yigit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dasturchi_yigit/" height="30" width="40" /></a>
 </p>
