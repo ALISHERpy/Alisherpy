@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="left">Hi, I'm **Alisher Akhmadov**, Django web devloper</h3>
+<h3 align="left">Hi, I'm Alisher Akhmadov, Django web devloper</h3>
 
 ![logo](https://github.com/ALISHERpy/Alisherpy/blob/main/22.jpg)
 
@@ -19,9 +19,7 @@
 <p align="left">
 
 <a href="https://t.me/Alisher_py" target="blank"><img align="center" src="https://telegra.ph/file/6dab703f0e680b0ed613f.png" alt="alisher_py" height="30" width="40" /></a>
-
 <a href="https://instagram.com/alisher_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisher_py" height="30" width="40" /></a>
-
 <a href="https://twitter.com/dasturchiyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasturchiyigit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alisher-axmadov-75a3a921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-axmadov-75a3a921a" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100072845643885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100072845643885" height="30" width="40" /></a>
