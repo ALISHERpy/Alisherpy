@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisherpy&label=Profile%20views&color=0e75b6&style=flat" alt="alisherpy" /> </p>
 
-- 👨‍💻 All of my projects are available at [resilient-semifreddo-7a6b7e.netlify.app/](resilient-semifreddo-7a6b7e.netlify.app/)
 
-- 💬 Ask me about **Django,Telegram bot**
+
+- 👨‍💻 All of my projects are available at [There](resilient-semifreddo-7a6b7e.netlify.app/)
+
+- 💬 Ask me anything about **Django,Telegram bot**
 
 - 📫 How to reach me **Dasturchiyigit2002@gmail.com**
 
@@ -28,5 +30,5 @@
 ## My Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisherpy&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="alisherpy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisherpy&show_icons=true&locale=en" alt="alisherpy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisherpy&show_icons=true&locale=en&bg_color=151515" alt="alisherpy" /></p>
 
